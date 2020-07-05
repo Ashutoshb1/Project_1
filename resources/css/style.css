@@ -1,0 +1,109 @@
+html,
+body {
+    font-family: 'Raleway', 'Arial', sans-serif; 
+    font-weight: 300;
+    font-size: 20px;
+    text-rendering: optimizeLegibility;
+    
+}
+
+
+
+.img-thumbnail {
+    height : 150px;
+    width : 150px;
+    border-radius : 50%;
+    border: 1px blue solid;
+    
+}
+
+
+.imgBox{
+    padding-left: 30%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    border-bottom: 2px whitesmoke solid;
+}
+.col-md-4{
+    background-color: #1760cf;
+    color : whitesmoke
+}
+.row{
+    height: 100%;
+}
+.col-md-8{
+    background-color: #ebebeb;
+}
+.container{
+    margin-top: 40px;
+    margin-bottom: 40PX;
+    box-shadow: 5px 5px 4px 5px #C3C3C3;
+}
+.name, .profile, .education{
+    padding: 7.5% 0 2.5% 5% ;
+    border-bottom: 2px #1760cf solid;
+}
+
+.edu{
+    padding: 5% 0;
+}
+.sub{
+    padding: 2.5% 0;
+    font-weight: 200;
+}
+.sub li{
+    padding: 1.5% 5%;
+    list-style: none;
+    font-weight: 500;
+}
+.project{
+    padding: 7.5% 0 2.5% 5% ;
+}
+.pro{
+font-size: 120%;
+
+}
+
+.contact, .skills, .hobbies{
+    padding: 7.5% 0 2.5% 5% ;
+    border-bottom: 2px whitesmoke solid;
+}
+
+.lang{
+    padding: 7.5% 0 2.5% 5% ;
+}
+.education li{
+    list-style: none;
+} 
+.skills ul{
+    list-style: none;
+} 
+.contact-list{
+    list-style: none;
+}
+.hobbies ul{
+    list-style: none;
+}
+.skills img{
+    height: 120px;
+    width: auto;
+}
+.ski .logo{
+    padding-bottom:10px ;
+}
+.hobbies li{
+    padding: 5% 0;
+}
+.lang li{
+    padding: 5% 0;
+}
+
+.btn-primary{
+    padding: 5% 5%;
+    margin: 5% 15%;
+}
+
+.pro li{
+    list-style: square;
+    padding: 5% 0;
+} 
