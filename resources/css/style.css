@@ -107,3 +107,7 @@ font-size: 120%;
     list-style: square;
     padding: 5% 0;
 } 
+
+.ski li{
+    padding-right: 15%;
+}
