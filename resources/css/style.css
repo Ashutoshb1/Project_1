@@ -43,6 +43,9 @@ body {
     padding: 7.5% 0 2.5% 5% ;
     border-bottom: 2px #1760cf solid;
 }
+.profile ul{
+    list-style: none;
+}
 
 .edu{
     padding: 5% 0;
@@ -64,7 +67,11 @@ font-size: 120%;
 
 }
 
-.contact, .skills, .hobbies{
+.project-des{
+    font-size: 80%;
+
+}
+.contact, .skills, .hobbies, .ECA{
     padding: 7.5% 0 2.5% 5% ;
     border-bottom: 2px whitesmoke solid;
 }
@@ -75,9 +82,22 @@ font-size: 120%;
 .education li{
     list-style: none;
 } 
+.ECA li{
+   
+    padding: 7.5% 0 2.5% 5% ;
+}
+
+.ECA{
+    font-size: 90%;
+}
 .skills ul{
     list-style: none;
+    
 } 
+.sub-ski{
+    padding: 0 2.5%;
+}
+
 .contact-list{
     list-style: none;
 }
@@ -85,12 +105,10 @@ font-size: 120%;
     list-style: none;
 }
 .skills img{
-    height: 120px;
-    width: auto;
+    height: 50px;
+    width: 90px;
 }
-.ski .logo{
-    padding-bottom:10px ;
-}
+
 .hobbies li{
     padding: 5% 0;
 }
@@ -107,7 +125,13 @@ font-size: 120%;
     list-style: square;
     padding: 5% 0;
 } 
+.ski .logo{
+    padding-bottom:10px ;
+}
 
-.ski li{
+/*.ski li{
     padding-right: 15%;
+}
+.ski .logo{
+    padding-bottom:10px ;
 }
